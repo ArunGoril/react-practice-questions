@@ -9,6 +9,8 @@ import "./App.css";
 // import UseContext from "./components/questions/7 - use context api/UseContext";
 import LazyLoading from "./components/questions/8 - lazy loading/LazyLoading";
 
+// testing in mac
+
 function App() {
   return (
     <div className="App">
